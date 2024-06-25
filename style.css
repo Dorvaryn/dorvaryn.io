@@ -320,7 +320,7 @@
 	 bottom: 0;
 }
  .section-wrapper .skill-percentage:nth-child(1)::before {
-	 width: 85%;
+	 width: 95%;
 	 animation: skill_1 0.6s ease;
 }
  .section-wrapper .skill-percentage:nth-child(2)::before {
