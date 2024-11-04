@@ -223,6 +223,13 @@
 		 margin-bottom: 20px;
 	}
 }
+.experience .company-wrapper img {
+	border-radius: 9px;
+	width: 100px;
+	height: auto;
+	margin-right: 10px;
+	vertical-align: middle;
+}
  .experience .job-wrapper {
 	 width: 70%;
 	 float: left;
